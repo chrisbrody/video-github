@@ -1,0 +1,34 @@
+GITHUB 1.1 - Intro video for Github
+GITHUB 1.2 - Signup for Github
+GITHUB 1.3 - Verify Email for Github
+GITHUB 1.4 - Outro to video for Github
+
+
+
+GITHUB 1.1 - Intro video for Github
+Chris from Codify Academy here.
+
+In this video i'm going to show you how to sign up and verify your email for github.
+
+go ahead and open up a browser tab and type in github.com in and press enter to go.
+
+Developers use this tool so they have access to their code on any computer. We'll learn this later down the line.
+
+GITHUB 1.2 - Signup for Github
+Lets start by signing up, you should see signup in the navigation.
+
+Pick a username     an email       and password        and click next to continue.
+
+On this page you can keep your repos public and click continue
+
+and on the last page you can choose skip this step.
+
+
+GITHUB 1.3 - Verify Email for Github
+Now we need to verify our email address, so click start new project
+You should see a verify email screen next so we need to go check our emails now. If it doesn't show up you can resend it here.
+
+Once our email is verified you will no longer see a unverified near your email
+
+GITHUB 1.4 - Outro to video for Github
+Great, we joined Github and can use it soon. Don't for get your user name or email we'll need that in the next video.
